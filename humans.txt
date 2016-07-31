@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    William Tooles  wtooles@csc.com  @btooles
 
 # THANKS
 
